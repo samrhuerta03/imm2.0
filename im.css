@@ -1,3 +1,18 @@
+.text-left{
+  width: 50%;
+  float: left;
+  clear: right;
+}
+
+.text-right{
+  width: 50%;
+  float: right;
+  clear: left;
+}
+
+.block {
+  display: block;
+}
 .header {
   background-color: #f1f1f1;
   padding: 20px;
@@ -6,7 +21,6 @@
 
 .home{
     text-aling:center;
-
 }
 
 .no-js {
@@ -30,9 +44,6 @@
 .sticky-container {
   z-index: 5;
 }
-
-
--------
 
 /* Dropdown Button */
 .dropbtn {
