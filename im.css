@@ -1,13 +1,6 @@
-.text-left{
-  width: 50%;
-  float: left;
-  clear: right;
-}
 
-.text-right{
-  width: 50%;
-  float: right;
-  clear: left;
+figcaption{
+    display:block;
 }
 
 .block {
